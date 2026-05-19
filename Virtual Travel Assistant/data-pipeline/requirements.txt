@@ -1,0 +1,22 @@
+# Core
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+python-dotenv>=1.0.0
+
+# NLP
+sentence-transformers>=2.2.0
+underthesea>=6.8.0
+
+# Databases
+neo4j>=5.15.0
+pymilvus>=2.3.0
+pymongo>=4.6.0
+
+# HTTP
+httpx>=0.26.0
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+
+# Utils
+numpy>=1.24.0
+tqdm>=4.66.0

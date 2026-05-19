@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Phở Bà Tùng",
+    "category": "food",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "Hải Châu, Đà Nẵng",
+    "lat": 16.0685,
+    "lng": 108.212,
+    "cuisine_type": "Phở",
+    "meal_time": [
+      "breakfast"
+    ],
+    "price_range": "20000-40000",
+    "estimated_cost": {
+      "min": 20000,
+      "max": 40000
+    },
+    "style": "heritage",
+    "dietary_info": {
+      "contains_meat": true,
+      "contains_seafood": false
+    },
+    "car_parking": false,
+    "motorbike_parking": true,
+    "alley_access": true
+  },
+  {
+    "name": "Mì Quảng Bà Vị",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "Thanh Khê, Đà Nẵng",
+    "lat": 16.0683,
+    "lng": 108.1959,
+    "cuisine_type": "Mì Quảng",
+    "meal_time": [
+      "lunch",
+      "dinner"
+    ],
+    "price_range": "30000-50000",
+    "estimated_cost": {
+      "min": 30000,
+      "max": 50000
+    },
+    "style": "heritage",
+    "car_parking": true,
+    "motorbike_parking": true,
+    "ingredient_season": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "name": "Bún bò Huế O Phượng",
+    "category": "food",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "Thành phố Huế",
+    "lat": 16.4628,
+    "lng": 107.5909,
+    "cuisine_type": "Bún bò Huế",
+    "meal_time": [
+      "breakfast",
+      "lunch"
+    ],
+    "price_range": "35000-55000",
+    "estimated_cost": {
+      "min": 35000,
+      "max": 55000
+    },
+    "style": "heritage",
+    "car_parking": false
+  },
+  {
+    "name": "Hải sản Bé Mặn",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "Sơn Trà, Đà Nẵng",
+    "lat": 16.0616,
+    "lng": 108.2459,
+    "cuisine_type": "Hải sản",
+    "meal_time": [
+      "dinner"
+    ],
+    "price_range": "200000-500000",
+    "estimated_cost": {
+      "min": 200000,
+      "max": 500000
+    },
+    "style": "trending",
+    "car_parking": true,
+    "motorbike_parking": true,
+    "hot_weather_food": true
+  },
+  {
+    "name": "Cao Lầu Thanh",
+    "category": "food",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "Hội An",
+    "lat": 15.8796,
+    "lng": 108.3388,
+    "cuisine_type": "Cao Lầu",
+    "meal_time": [
+      "lunch",
+      "dinner"
+    ],
+    "price_range": "30000-60000",
+    "estimated_cost": {
+      "min": 30000,
+      "max": 60000
+    },
+    "style": "heritage",
+    "car_parking": false,
+    "alley_access": true
+  }
+]

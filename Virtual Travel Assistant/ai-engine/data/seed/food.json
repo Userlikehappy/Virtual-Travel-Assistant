@@ -1,0 +1,1755 @@
+[
+  {
+    "name": "Nhà Hàng Chay & Cà Phê Thúp An",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0738518,
+    "lng": 108.2032513,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "snack",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406420",
+    "osm_id": 729406420,
+    "osm_tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "name": "Tao Do",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0568235,
+    "lng": 108.2207613,
+    "description": "Ẩm thực: vietnamese",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "breakfast",
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/1992479743",
+    "osm_id": 1992479743,
+    "osm_tags": {
+      "amenity": "restaurant",
+      "cuisine": "vietnamese"
+    }
+  },
+  {
+    "name": "Thang Bom",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0663525,
+    "lng": 108.2019752,
+    "description": "",
+    "address": "171, Đường Lê Độ",
+    "phone": "+84 90 544 8446",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2623768438",
+    "osm_id": 2623768438,
+    "osm_tags": {
+      "addr:street": "Đường Lê Độ",
+      "amenity": "restaurant",
+      "phone": "+84 90 544 8446"
+    }
+  },
+  {
+    "name": "Mr Duc's",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0660927,
+    "lng": 108.2233715,
+    "description": "",
+    "address": "",
+    "phone": "0977105588",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2747371589",
+    "osm_id": 2747371589,
+    "osm_tags": {
+      "amenity": "restaurant",
+      "phone": "0977105588"
+    }
+  },
+  {
+    "name": "Bánh bèo 291 Nguyễn Chí Thanh",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.066938,
+    "lng": 108.220909,
+    "description": "Ẩm thực: vietnamese",
+    "address": "291, Nguyễn Chí Thanh",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "breakfast",
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2988814633",
+    "osm_id": 2988814633,
+    "osm_tags": {
+      "addr:street": "Nguyễn Chí Thanh",
+      "amenity": "restaurant",
+      "cuisine": "vietnamese"
+    }
+  },
+  {
+    "name": "N&M",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0426825,
+    "lng": 108.2243357,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2988973933",
+    "osm_id": 2988973933,
+    "osm_tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "name": "Phúc Đại Hỷ",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.04255,
+    "lng": 108.22279,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2988974233",
+    "osm_id": 2988974233,
+    "osm_tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "name": "Phú Gia 1",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.042804,
+    "lng": 108.222844,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2988974433",
+    "osm_id": 2988974433,
+    "osm_tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "name": "Queen's Palace",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.044319,
+    "lng": 108.223638,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2988975433",
+    "osm_id": 2988975433,
+    "osm_tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "name": "Cát Tường",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.043515,
+    "lng": 108.22411,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2988975533",
+    "osm_id": 2988975533,
+    "osm_tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "name": "The Sushi bar",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0482352,
+    "lng": 108.2231394,
+    "description": "Ẩm thực: japanese",
+    "address": "Số thửa 3-A5.6, 2 Thang 9",
+    "phone": "02363662877",
+    "operating_hours": "10:00-22:00",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2988980334",
+    "osm_id": 2988980334,
+    "osm_tags": {
+      "addr:street": "2 Thang 9",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": "02363662877"
+    }
+  },
+  {
+    "name": "HQ Thai Food",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0697702,
+    "lng": 108.2229678,
+    "description": "Ẩm thực: thai",
+    "address": "9, Yên Bái",
+    "phone": "",
+    "operating_hours": "06:30-22:00",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "breakfast"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/3628855206",
+    "osm_id": 3628855206,
+    "osm_tags": {
+      "addr:street": "Yên Bái",
+      "amenity": "restaurant",
+      "cuisine": "thai",
+      "opening_hours": "Mo-Su 06:30-22:00"
+    }
+  },
+  {
+    "name": "Nhà hàng chay",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0707342,
+    "lng": 108.2150903,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/3850502770",
+    "osm_id": 3850502770,
+    "osm_tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "name": "Fa Dan",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0679366,
+    "lng": 108.2433703,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/3888954277",
+    "osm_id": 3888954277,
+    "osm_tags": {
+      "amenity": "restaurant"
+    }
+  },
+  {
+    "name": "Karma Waters",
+    "category": "food",
+    "type": "food",
+    "environment": "Sheltered",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0765579,
+    "lng": 108.2203123,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "http://karmawaters.com/",
+    "osm_id": 3893467887,
+    "osm_tags": {
+      "amenity": "restaurant",
+      "website": "http://karmawaters.com/"
+    }
+  },
+  {
+    "name": "CaPhe Thu Uyen",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0874373,
+    "lng": 108.1445387,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406384",
+    "osm_id": 729406384,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "Cafe Win",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0746726,
+    "lng": 108.2187015,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "snack"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406385",
+    "osm_id": 729406385,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "CafeKhanh Ly",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0627174,
+    "lng": 108.208943,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "snack"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406386",
+    "osm_id": 729406386,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "ThanhBinh Coffee",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0347187,
+    "lng": 108.2446539,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406387",
+    "osm_id": 729406387,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "CaPhe Fantasy",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0632999,
+    "lng": 108.1601536,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406388",
+    "osm_id": 729406388,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "CaPhe Lang Tien",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0657433,
+    "lng": 108.2077628,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406389",
+    "osm_id": 729406389,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "KieuLien Coffee",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0786302,
+    "lng": 108.1477511,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406390",
+    "osm_id": 729406390,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "Cafe Truc Phuong",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0684586,
+    "lng": 108.1500026,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "snack"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406391",
+    "osm_id": 729406391,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "Ca Phe 83",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0785765,
+    "lng": 108.2193388,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406392",
+    "osm_id": 729406392,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "Cafe Dong Xanh",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0640577,
+    "lng": 108.2208466,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "snack"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406393",
+    "osm_id": 729406393,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "CafeTo Be",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0736841,
+    "lng": 108.2182886,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "snack"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406394",
+    "osm_id": 729406394,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "MuoiChau Coffee",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0021817,
+    "lng": 108.2670205,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406396",
+    "osm_id": 729406396,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "CaPhe Sao Mai",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0668568,
+    "lng": 108.1743586,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406397",
+    "osm_id": 729406397,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "MienThao Coffee",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0762311,
+    "lng": 108.2308433,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406398",
+    "osm_id": 729406398,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "GmcCoffee",
+    "category": "cafe",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0539382,
+    "lng": 108.2208037,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729406399",
+    "osm_id": 729406399,
+    "osm_tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "name": "Bia Tuoi Be Tien",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0543919,
+    "lng": 108.2390964,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729408101",
+    "osm_id": 729408101,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Bia 265",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0747436,
+    "lng": 108.214522,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729408102",
+    "osm_id": 729408102,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Bia Viet Ha",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.079259,
+    "lng": 108.2237327,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729408104",
+    "osm_id": 729408104,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Huy Hoang",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0561034,
+    "lng": 108.2092649,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729408105",
+    "osm_id": 729408105,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Bia Tuoi Ba Gai",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.066833,
+    "lng": 108.192114,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729408106",
+    "osm_id": 729408106,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Nha Hang Vuon Bia Ha Plus",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0492366,
+    "lng": 108.2250631,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729408107",
+    "osm_id": 729408107,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Nhà hàng Bia Tiệp Tulip",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0489671,
+    "lng": 108.2221232,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729408108",
+    "osm_id": 729408108,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Bia Tuoi 243",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0534588,
+    "lng": 108.2098657,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/729408109",
+    "osm_id": 729408109,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Bamboo 2",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.065004,
+    "lng": 108.223996,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2147660614",
+    "osm_id": 2147660614,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Riverside 3",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.065888,
+    "lng": 108.224216,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/2987522038",
+    "osm_id": 2987522038,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "The Alco-Hole",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0683462,
+    "lng": 108.2438064,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/4025116294",
+    "osm_id": 4025116294,
+    "osm_tags": {
+      "amenity": "pub"
+    }
+  },
+  {
+    "name": "Holiday Beach Club",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.049745,
+    "lng": 108.249151,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/4231051889",
+    "osm_id": 4231051889,
+    "osm_tags": {
+      "amenity": "bar"
+    }
+  },
+  {
+    "name": "Beach Club",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.048291,
+    "lng": 108.2496944,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/4283597757",
+    "osm_id": 4283597757,
+    "osm_tags": {
+      "amenity": "bar"
+    }
+  },
+  {
+    "name": "Breeze Bar",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "Danang",
+    "city": "Đà Nẵng",
+    "lat": 16.0473675,
+    "lng": 108.2500022,
+    "description": "",
+    "address": "Võ Nguyên Giáp",
+    "phone": "",
+    "operating_hours": "7am 10pm",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/4283597758",
+    "osm_id": 4283597758,
+    "osm_tags": {
+      "addr:street": "Võ Nguyên Giáp",
+      "amenity": "bar",
+      "opening_hours": "7am 10pm"
+    }
+  },
+  {
+    "name": "Kangaroo Bar - Burger",
+    "category": "nightlife",
+    "type": "food",
+    "environment": "Indoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0666644,
+    "lng": 108.2430919,
+    "description": "Ẩm thực: burger, sandwich, international, breakfast, coffee_shop, steak_house, american, beef_bowl, pasta, chicken",
+    "address": "218, Hồ Nghinh",
+    "phone": "0935810692",
+    "operating_hours": "08:00-23:00",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "breakfast",
+      "snack",
+      "dinner"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/4313932192",
+    "osm_id": 4313932192,
+    "osm_tags": {
+      "addr:street": "Hồ Nghinh",
+      "amenity": "bar",
+      "cuisine": "burger;sandwich;international;breakfast;coffee_shop;steak_house;american;beef_bowl;pasta;chicken",
+      "opening_hours": "Mo-Su 08:00-23:00",
+      "phone": "0935810692"
+    }
+  },
+  {
+    "name": "minh trang",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.085426,
+    "lng": 108.2150769,
+    "description": "",
+    "address": "212, Thanh Thủy",
+    "phone": "0905374080",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/5762588554",
+    "osm_id": 5762588554,
+    "osm_tags": {
+      "addr:street": "Thanh Thủy",
+      "amenity": "ice_cream",
+      "phone": "0905374080"
+    }
+  },
+  {
+    "name": "Kem Tư Chon",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0785373,
+    "lng": 108.2194052,
+    "description": "",
+    "address": "54, Lê Lợi",
+    "phone": "+84908656200",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "snack"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/5791846753",
+    "osm_id": 5791846753,
+    "osm_tags": {
+      "addr:street": "Lê Lợi",
+      "amenity": "ice_cream",
+      "phone": "+84908656200"
+    }
+  },
+  {
+    "name": "Shym coffee juice kem",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0685376,
+    "lng": 108.2248323,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "snack"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/6273662785",
+    "osm_id": 6273662785,
+    "osm_tags": {
+      "amenity": "ice_cream"
+    }
+  },
+  {
+    "name": "Kem bơ Bé Huệ",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0506693,
+    "lng": 108.2445233,
+    "description": "",
+    "address": "Đường An Thượng 38",
+    "phone": "0912136690",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "snack"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/10787239705",
+    "osm_id": 10787239705,
+    "osm_tags": {
+      "addr:street": "Đường An Thượng 38",
+      "amenity": "ice_cream",
+      "phone": "0912136690"
+    }
+  },
+  {
+    "name": "Kem dừa Mã Lai",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0590727,
+    "lng": 108.21117,
+    "description": "",
+    "address": "14, Đường Lê Đình Lý",
+    "phone": "",
+    "operating_hours": "10:30-22:45",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "snack"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/11715202769",
+    "osm_id": 11715202769,
+    "osm_tags": {
+      "addr:street": "Đường Lê Đình Lý",
+      "amenity": "ice_cream",
+      "opening_hours": "Mo-Su 10:30-22:45"
+    }
+  },
+  {
+    "name": "Guming Tea & Kafei",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0611729,
+    "lng": 108.2214616,
+    "description": "",
+    "address": "34, Đường Lê Đình Dương",
+    "phone": "",
+    "operating_hours": "09:00-18:00",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "breakfast"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/11905764169",
+    "osm_id": 11905764169,
+    "osm_tags": {
+      "addr:street": "Đường Lê Đình Dương",
+      "amenity": "ice_cream",
+      "opening_hours": "Mo-Su 09:00-18:00"
+    }
+  },
+  {
+    "name": "Guming",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0360364,
+    "lng": 108.2167462,
+    "description": "",
+    "address": "109-111, Đường Phan Đăng Lưu",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/11951761272",
+    "osm_id": 11951761272,
+    "osm_tags": {
+      "addr:street": "Đường Phan Đăng Lưu",
+      "amenity": "ice_cream"
+    }
+  },
+  {
+    "name": "The Crafty Cow",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0642922,
+    "lng": 108.2240361,
+    "description": "",
+    "address": "226, Bạch Đằng",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/12606908495",
+    "osm_id": 12606908495,
+    "osm_tags": {
+      "addr:street": "Bạch Đằng",
+      "amenity": "ice_cream"
+    }
+  },
+  {
+    "name": "Mixue",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0753703,
+    "lng": 108.2152043,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/12649550101",
+    "osm_id": 12649550101,
+    "osm_tags": {
+      "amenity": "ice_cream"
+    }
+  },
+  {
+    "name": "Misto Gelato",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0560731,
+    "lng": 108.2462896,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/12830575032",
+    "osm_id": 12830575032,
+    "osm_tags": {
+      "amenity": "ice_cream"
+    }
+  },
+  {
+    "name": "Berry",
+    "category": "food",
+    "type": "food",
+    "environment": "Outdoor",
+    "district": "",
+    "city": "Đà Nẵng",
+    "lat": 16.0509277,
+    "lng": 108.2437954,
+    "description": "",
+    "address": "",
+    "phone": "",
+    "operating_hours": "",
+    "estimated_cost": 0.0,
+    "estimated_rating": 0.0,
+    "car_parking": false,
+    "motorbike_parking": true,
+    "meal_time": [
+      "dinner",
+      "lunch"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "style": "trending",
+    "source_url": "https://www.openstreetmap.org/node/12836656110",
+    "osm_id": 12836656110,
+    "osm_tags": {
+      "amenity": "ice_cream"
+    }
+  }
+]

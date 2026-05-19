@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Đại Nội Huế",
+    "category": "heritage",
+    "type": "location",
+    "environment": "Outdoor",
+    "district": "Thành phố Huế",
+    "lat": 16.4698,
+    "lng": 107.5789,
+    "description": "Kinh thành Huế là quần thể di tích cố đô của triều đại nhà Nguyễn, được UNESCO công nhận là Di sản Văn hóa Thế giới năm 1993.",
+    "historical_significance": "Xây dựng từ 1805 dưới thời Vua Gia Long, hoàn thành 1832 dưới thời Minh Mạng. Trải qua 143 năm triều Nguyễn (1802-1945).",
+    "dynasty": "Nguyễn",
+    "operating_hours": "07:00-17:30",
+    "ticket_price": {
+      "adult": 200000,
+      "student": 40000
+    },
+    "car_parking": true,
+    "motorbike_parking": true,
+    "visit_duration_minutes": 180,
+    "style": "heritage",
+    "best_time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "meal_time": [],
+    "environment_tags": [
+      "outdoor",
+      "sheltered_partial"
+    ]
+  },
+  {
+    "name": "Chùa Thiên Mụ",
+    "category": "spiritual",
+    "type": "location",
+    "environment": "Outdoor",
+    "district": "Thành phố Huế",
+    "lat": 16.4539,
+    "lng": 107.5442,
+    "description": "Chùa Thiên Mụ (hay Linh Mụ) là ngôi chùa cổ nhất Huế, xây dựng năm 1601 dưới thời chúa Nguyễn Hoàng.",
+    "historical_significance": "Xây dựng năm 1601, tháp Phước Duyên 7 tầng xây 1844. Biểu tượng của thành phố Huế.",
+    "dynasty": "Nguyễn",
+    "operating_hours": "05:30-18:00",
+    "ticket_price": {
+      "adult": 0
+    },
+    "car_parking": true,
+    "motorbike_parking": true,
+    "visit_duration_minutes": 60,
+    "style": "heritage",
+    "is_spiritual": true,
+    "best_time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "meal_time": []
+  },
+  {
+    "name": "Phố cổ Hội An",
+    "category": "heritage",
+    "type": "location",
+    "environment": "Sheltered",
+    "district": "Hội An",
+    "lat": 15.8801,
+    "lng": 108.338,
+    "description": "Di sản Văn hóa Thế giới UNESCO từ 1999. Phố cổ Hội An là thương cảng quốc tế sầm uất từ thế kỷ 15-19.",
+    "historical_significance": "Thương cảng quốc tế từ TK XV, giao thương Nhật-Trung-Việt. Kiến trúc pha trộn Việt-Hoa-Nhật.",
+    "operating_hours": "08:00-21:30",
+    "ticket_price": {
+      "adult": 120000
+    },
+    "car_parking": false,
+    "motorbike_parking": true,
+    "alley_access": true,
+    "visit_duration_minutes": 240,
+    "style": "heritage",
+    "best_time_of_day": [
+      "afternoon",
+      "evening"
+    ],
+    "season_tags": [
+      "all_year"
+    ],
+    "meal_time": []
+  },
+  {
+    "name": "Ngũ Hành Sơn",
+    "category": "sightseeing",
+    "type": "location",
+    "environment": "Outdoor",
+    "district": "Ngũ Hành Sơn, Đà Nẵng",
+    "lat": 16.0046,
+    "lng": 108.2637,
+    "description": "Ngũ Hành Sơn gồm 5 ngọn núi đá vôi: Kim, Mộc, Thủy, Hỏa, Thổ. Bên trong có nhiều hang động và chùa cổ.",
+    "operating_hours": "07:00-17:30",
+    "ticket_price": {
+      "adult": 40000
+    },
+    "car_parking": true,
+    "visit_duration_minutes": 120,
+    "style": "heritage",
+    "adventure_level": "moderate",
+    "best_time_of_day": [
+      "morning"
+    ],
+    "season_tags": [
+      "dry_season"
+    ],
+    "extreme_weather_block": true
+  },
+  {
+    "name": "Biển Mỹ Khê",
+    "category": "beach",
+    "type": "location",
+    "environment": "Outdoor",
+    "district": "Sơn Trà, Đà Nẵng",
+    "lat": 16.0589,
+    "lng": 108.247,
+    "description": "Bãi biển Mỹ Khê được Forbes bình chọn là một trong 6 bãi biển đẹp nhất hành tinh.",
+    "operating_hours": "00:00-23:59",
+    "car_parking": true,
+    "motorbike_parking": true,
+    "visit_duration_minutes": 180,
+    "style": "trending",
+    "best_time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "season_tags": [
+      "summer"
+    ],
+    "extreme_weather_block": true
+  }
+]
